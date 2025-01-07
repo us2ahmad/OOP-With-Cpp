@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Access Specifiers\Access Specifiers-Modifiers.cpp" />
-    <ClCompile Include="Access Specifiers\Modifiers Review.cpp" />
+    <ClCompile Include="Access Specifiers-Modifiers.cpp" />
+    <ClCompile Include="Access Specifiers-Modifiers Review.cpp" />
     <ClCompile Include="Class Members.cpp" />
     <ClCompile Include="Classes and Objects.cpp" />
     <ClCompile Include="Constructors.cpp" />
@@ -150,13 +150,18 @@
     <ClCompile Include="Properties Set and Get through  = .cpp" />
     <ClCompile Include="Properties Set and Get.cpp" />
     <ClCompile Include="Read Only Property.cpp" />
+    <ClCompile Include="Separate Classes In Libraries.cpp" />
     <ClCompile Include="Static Members.cpp" />
     <ClCompile Include="Static Methods Functions .cpp" />
-    <ClCompile Include="Static\Early Binding vs Dynamic\Late Binding.cpp" />
+    <ClCompile Include="Static-Early Binding vs Dynamic-Late Binding.cpp" />
     <ClCompile Include="Structure Inside Class.cpp" />
-    <ClCompile Include="Third Principle\Concept of OOP - Inheritance.cpp" />
+    <ClCompile Include="Third Principle-Concept of OOP - Inheritance.cpp" />
     <ClCompile Include="Up Casting vs Down Casting.cpp" />
     <ClCompile Include="Virtual Functions.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsEmployee.h" />
+    <ClInclude Include="clsPerson.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

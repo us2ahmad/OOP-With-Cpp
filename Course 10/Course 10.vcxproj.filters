@@ -21,9 +21,6 @@
     <ClCompile Include="Class Members.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Access Specifiers\Access Specifiers-Modifiers.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Properties Set and Get.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -60,9 +57,6 @@
     <ClCompile Include="Employee Exercise MySolution .cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Third Principle\Concept of OOP - Inheritance.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Parameterized Constructor of the Base Class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -72,9 +66,6 @@
     <ClCompile Include="Homework - Developer Exercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Access Specifiers\Modifiers Review.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Inheritance Visibility Modes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -82,9 +73,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Virtual Functions.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Static\Early Binding vs Dynamic\Late Binding.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Interfaces Pure Virtual Functions and Abstract Classes.cpp">
@@ -108,12 +96,45 @@
     <ClCompile Include="Separate Classes In Libraries.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Access Specifiers-Modifiers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Access Specifiers-Modifiers Review.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Static-Early Binding vs Dynamic-Late Binding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Principle-Concept of OOP - Inheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="‘this’ pointer .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects and Vectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects and Dynamic Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects with Parameterized Constructor and Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String Library Project.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clsPerson.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="clsEmployee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

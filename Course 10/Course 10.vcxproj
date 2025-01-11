@@ -143,6 +143,9 @@
     <ClCompile Include="Interfaces Pure Virtual Functions and Abstract Classes.cpp" />
     <ClCompile Include="Nested Classes - Constructor Homework Solution.cpp" />
     <ClCompile Include="Nested Classes.cpp" />
+    <ClCompile Include="Objects and Dynamic Array.cpp" />
+    <ClCompile Include="Objects and Vectors.cpp" />
+    <ClCompile Include="Objects with Parameterized Constructor and Array.cpp" />
     <ClCompile Include="Parameterized Constructor of the Base Class.cpp" />
     <ClCompile Include="Person Exercise MySolution .cpp" />
     <ClCompile Include="Project 1  Calculator - Solution.cpp" />
@@ -154,14 +157,18 @@
     <ClCompile Include="Static Members.cpp" />
     <ClCompile Include="Static Methods Functions .cpp" />
     <ClCompile Include="Static-Early Binding vs Dynamic-Late Binding.cpp" />
+    <ClCompile Include="String Library Project.cpp" />
     <ClCompile Include="Structure Inside Class.cpp" />
     <ClCompile Include="Third Principle-Concept of OOP - Inheritance.cpp" />
     <ClCompile Include="Up Casting vs Down Casting.cpp" />
     <ClCompile Include="Virtual Functions.cpp" />
+    <ClCompile Include="‘this’ pointer .cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clsEmployee.h" />
     <ClInclude Include="clsPerson.h" />
+    <ClInclude Include="clsString.h" />
+    <ClInclude Include="clsString2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

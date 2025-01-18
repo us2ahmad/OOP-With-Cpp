@@ -133,6 +133,7 @@
     <ClCompile Include="Classes and Objects.cpp" />
     <ClCompile Include="Constructors.cpp" />
     <ClCompile Include="Copy Constructors.cpp" />
+    <ClCompile Include="Date Library Project.cpp" />
     <ClCompile Include="Destructors.cpp" />
     <ClCompile Include="Employee Exercise MySolution .cpp" />
     <ClCompile Include="Friend Classes.cpp" />
@@ -147,6 +148,7 @@
     <ClCompile Include="Objects and Vectors.cpp" />
     <ClCompile Include="Objects with Parameterized Constructor and Array.cpp" />
     <ClCompile Include="Parameterized Constructor of the Base Class.cpp" />
+    <ClCompile Include="Period Lib Project.cpp" />
     <ClCompile Include="Person Exercise MySolution .cpp" />
     <ClCompile Include="Project 1  Calculator - Solution.cpp" />
     <ClCompile Include="Project 1  Calculator-MySolution.cpp" />
@@ -165,7 +167,10 @@
     <ClCompile Include="‘this’ pointer .cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsDate.h" />
+    <ClInclude Include="clsDate2.h" />
     <ClInclude Include="clsEmployee.h" />
+    <ClInclude Include="clsPeriod.h" />
     <ClInclude Include="clsPerson.h" />
     <ClInclude Include="clsString.h" />
     <ClInclude Include="clsString2.h" />

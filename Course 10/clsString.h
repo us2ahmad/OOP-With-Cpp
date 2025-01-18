@@ -240,7 +240,7 @@ public:
 
 	static string ReverseWords(string Text)
 	{
-		vector<string> vWords = SplitString(Text," ");
+		vector<string> vWords = Split(Text," ");
 		string text = "";
 	
 		for (int i = vWords.size() - 1 ; i >= 0 ; i--)
